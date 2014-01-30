@@ -1,4 +1,4 @@
-Animation
+Animate
 =========
 
 A general-purpose animation module.
