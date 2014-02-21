@@ -8,4 +8,4 @@ This app was originally built as part of a photo-viewer web app used to show off
 
 ======
 
-[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=levisl176&url=github.com/levisl176/photo-viewer&title=photo-viewer&language=javascript&tags=github&category=software)
+[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=levisl176&url=github.com/levisl176/animate&title=animate&language=javascript&tags=github&category=software)
